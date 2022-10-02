@@ -1,1 +1,3 @@
 Now I will be pro at git
+First commitrestored....
+Now adding 2nd commit.
